@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=435&height=50&lines=Azizah+Novi+Delfianti" alt="Azizah" />
-</h1>
+<h1 align="center">Hi 👋, I'm Azizah Novi Delfianti </h1>
 
-<h3 align="center">A passionate frontend developer and data enthusiast.</h3>
-<h3 align="center">A passionate frontend developer and data enthusiast.</h3>
+<h3 align="center">
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F75C7E&width=435&lines=A+passionate+frontend+developer;and+data+enthusiast." alt="Typing SVG" />
+  </p>
+</h3>
+
 
 
 
