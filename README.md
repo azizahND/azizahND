@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Azizah Novi Delfianti</h1>
+<h1 align="center">Hi 👋, I'm <span style="background-color:blue;color:white;padding:5px;border-radius:5px;">Azizah</span> Novi Delfianti</h1>
+
 
 <h3 align="center">
   <p>
