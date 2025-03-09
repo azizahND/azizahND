@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Azizah Novi Delfianti</h1>
-<h3 align="center">A passionate frontend developer and data</h3>
+<h3 align="center">A passionate frontend developer and data enthusiast.</h3>
 
 
 
