@@ -45,6 +45,9 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/> </a> &nbsp;&nbsp;&nbsp;
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azizahnd&show_icons=true&locale=en&layout=compact" alt="azizahnd" /></p>  
+<!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azizahnd&show_icons=true&locale=en&layout=compact" alt="azizahnd" /></p>
+-->
+
 
 
