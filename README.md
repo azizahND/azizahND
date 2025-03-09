@@ -10,7 +10,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<table align="center" border="0" cellpadding="0" cellspacing="0>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
       <a href="https://linkedin.com/in/azizah-novi-delfianti" target="blank">
