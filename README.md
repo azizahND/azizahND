@@ -29,9 +29,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="45" height="45"/>
-</a>
+</a> &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> </a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="45" height="45"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> </a> &nbsp;&nbsp;&nbsp;
