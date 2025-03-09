@@ -10,9 +10,9 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+<p align="center" style="display: flex; justify-content: center; gap: 30px;">
   <a href="https://linkedin.com/in/azizah-novi-delfianti" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="80" width="80" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" />
   </a>
   <a href="https://instagram.com/zizahsdoc" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="80" width="80" />
