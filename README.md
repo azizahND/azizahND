@@ -10,11 +10,11 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<table align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0>
   <tr>
     <td>
       <a href="https://linkedin.com/in/azizah-novi-delfianti" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="45" width="45" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="45" width="45"  />
       </a>
     </td>
    <!-- Jarak antar ikon -->
