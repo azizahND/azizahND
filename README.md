@@ -13,7 +13,7 @@
 ---
 
 ### 💫 About Me:
-- 🌱 Currently exploring **AI & Deep Learning**
+- 🌱 Currently exploring **Frontend development & Deep Learning**
 - 🎓 Information System @ Universitas Andalas
 - 🔭 Building creative solutions with **React, Python, and ML tools**
 - ✨ Believe in the power of **code and consistency**
