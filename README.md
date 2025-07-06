@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#3A59D1;">Azizah</span> Novi Delfianti</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8DD8FF&center=true&vCenter=true&width=605&lines=Passionate+Frontend+Developer+and+Data+Enthusiast.;Crafting+Beautiful+Interfaces+%2B+Smart+Models.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0D5EA6&center=true&vCenter=true&width=605&lines=Passionate+Frontend+Developer+and+Data+Enthusiast.;Crafting+Beautiful+Interfaces+%2B+Smart+Models.">
 </p>
 
 <p align="center">
