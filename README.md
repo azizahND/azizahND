@@ -14,9 +14,9 @@
 
 ### 💫 About Me:
 - 🌱 Currently exploring **AI & Deep Learning**
-- 🎓 Informatics Engineering @ Universitas Andalas
+- 🎓 Information System @ Universitas Andalas
 - 🔭 Building creative solutions with **React, Python, and ML tools**
-- ✨ Believe in the power of **code, coffee, and consistency**
+- ✨ Believe in the power of **code and consistency**
 
 ---
 
@@ -95,6 +95,4 @@
 
 ---
 
-### ☕ Fun Fact:
-> I write code like poetry and debug like a detective 🕵️‍♀️
 
