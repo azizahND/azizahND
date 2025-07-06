@@ -49,9 +49,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="45" height="45"/>
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+   
    <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
